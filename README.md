@@ -7,4 +7,5 @@ How to use:
 
 1.) Download the latest release<br>
 2.) Run as admin<br>
-3.) Press 1 when prompted, then enter to begin the app closing.
+3.) Press 1 when prompted, then enter to begin the app closing.<br>
+Note: Right now the game feature does not work so use at your own risk!
